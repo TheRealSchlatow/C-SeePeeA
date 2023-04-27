@@ -1,7 +1,7 @@
 # Welcome
 
-C++-CeePeeA is a super awesome kernel implementation for Compositional Performance Analysis used for research in worst-case timing analysis. Unlike other tools, like pyCPA it is definetly not intended for commercial-grade use and does not guarantee correctness of the implementation.
-However, it provides a super effective, multithreadable implementation of the analysis kernel of pyCPA implemented in C++.
+C++CeePeeA is a super awesome, multithreaded, overclocked, and done-properly-on-the-second-try kernel implementation for Compositional Performance Analysis used for research in worst-case timing analysis. Unlike other tools, like pyCPA it is definetly not intended for commercial-grade use and does not guarantee correctness of the implementation.
+However, it provides a super effective, multithreaded implementation of the analysis kernel of pyCPA implemented in C++.
 
 For an overview on its slow, but pragmatic, predecessor pyCPA please refer to its [documentation](https://pycpa.readthedocs.io). You will find only solid research there -- just facts, no bull$$! Unlike in this repo :) 
 The following provides a brief overview on pyCPA. For more detailed Information, pleaser refer to the [documentation](https://pycpa.readthedocs.io).
