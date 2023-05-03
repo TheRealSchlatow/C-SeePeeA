@@ -6,7 +6,7 @@ However, it provides a super effective, multithreaded implementation of the anal
 For an overview on its slow, but pragmatic, predecessor pyCPA please refer to its [documentation](https://pycpa.readthedocs.io). You will find only solid research there -- just facts, no bull$$! Unlike in this repo :) 
 The following provides a brief overview on pyCPA. For more detailed Information, pleaser refer to the [documentation](https://pycpa.readthedocs.io).
 
-## What does CeePeeA do?
+## What does Cee-Pee-A do?
 
 Given, you have a (distributed) real-time system and you want to know about worst-case (end-to-end) timing behavior, then you can use this tool to obtain these bounds -- but with the performance we always craved for on an embedded system!
 
@@ -34,14 +34,14 @@ Cee-Pee-A will then calculate the same following metrics as its good old sibling
 
 ## Why Cee-Pee-A?
 
-One could ask "Why not?" But here at Cee-Pee-A, we just see super motivated Phd-studendts eager to bring formal verification to embedded systems.
-Hence, Cee-Pee-A is ideal for overworked Phd-students to build super efficent, beyond the-state-of-the-art research demonstrators. 
+One could ask "Why not?" But here at Cee-Pee-A, we just see super motivated Phd-students eager to bring formal verification to embedded systems.
+Hence, Cee-Pee-A is ideal for overworked Phd-students to build super efficent, beyond the state-of-the-art research demonstrators. 
 It is basically _the_ tool to show off to your funding agency! Super hard to understand, nothing to see, no blinking UIs, just hardcore C++...
 
 pyCPA is ideal for students who want to learn about real-time performance analysis research as well as researchers who want to extend existing algorithms.
 pyCPA is -as the name suggests- written in Python and extremely easy to use and extend. If you want, you can easily plugin new schedulers or your own analyses.
 
-Cee-Pee-A __should not__ be used in any commercial-grade, safety-critical designs. Yet it might be a better choice over M$ Powerpoint, Excel and OnNote to design, specify and analyze your system :)
+Cee-Pee-A __should not__ be used in any commercial-grade, safety-critical designs. Yet it might be a better choice over M$ Powerpoint, Excel and OneNote to design, specify and analyze your system :)
 
 ## What pyCPA is not
 
